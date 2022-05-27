@@ -3,16 +3,14 @@
     .btn {
         padding: 15px 16px;
     }
-}
-
-/* Tablet */
-@media (min-width: 740px) and (max-width: 1023px) {
-    
 
     #nav .subnav a {
         padding: 14px 16px;
     }
+}
 
+/* Tablet */
+@media (min-width: 740px) and (max-width: 1023px) {
     .contact-form .form-control {
         padding: 15px 8px;
     }
@@ -61,7 +59,7 @@
 
     #nav .subnav a {
         color: #fff;
-        padding: 0 42px;
+        padding: 14px 42px;
     }
 
 
